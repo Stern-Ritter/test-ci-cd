@@ -1,3 +1,3 @@
-module actions
+module github.com/golangci/golangci-lint
 
-go 1.22
+go 1.21.3
